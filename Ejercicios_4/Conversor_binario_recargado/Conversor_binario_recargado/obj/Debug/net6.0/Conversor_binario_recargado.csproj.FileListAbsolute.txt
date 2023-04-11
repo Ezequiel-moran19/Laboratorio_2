@@ -1,0 +1,12 @@
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\Conversor_binario_recargado.csproj.AssemblyReference.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\Conversor_binario_recargado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\Conversor_binario_recargado.AssemblyInfoInputs.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\Conversor_binario_recargado.AssemblyInfo.cs
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\Conversor_binario_recargado.csproj.CoreCompileInputs.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\bin\Debug\net6.0\Conversor_binario_recargado.deps.json
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\bin\Debug\net6.0\Conversor_binario_recargado.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\bin\Debug\net6.0\Conversor_binario_recargado.pdb
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\Conversor_binario_recargado.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\refint\Conversor_binario_recargado.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\Conversor_binario_recargado.pdb
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Conversor_binario_recargado\Conversor_binario_recargado\obj\Debug\net6.0\ref\Conversor_binario_recargado.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vista_Main/1.0.0": {
+        "dependencies": {
+          "Conversor_binario_recargado": "1.0.0"
+        },
+        "runtime": {
+          "Vista_Main.dll": {}
+        }
+      },
+      "Conversor_binario_recargado/1.0.0": {
+        "runtime": {
+          "Conversor_binario_recargado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vista_Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Conversor_binario_recargado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
