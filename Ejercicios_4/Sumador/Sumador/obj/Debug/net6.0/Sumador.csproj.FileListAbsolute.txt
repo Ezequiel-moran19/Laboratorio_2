@@ -1,0 +1,12 @@
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\bin\Debug\net6.0\Sumador.deps.json
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\bin\Debug\net6.0\Sumador.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\bin\Debug\net6.0\Sumador.pdb
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\Sumador.csproj.AssemblyReference.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\Sumador.AssemblyInfoInputs.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\Sumador.AssemblyInfo.cs
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\Sumador.csproj.CoreCompileInputs.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\Sumador.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\refint\Sumador.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\Sumador.pdb
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Sumador\Sumador\obj\Debug\net6.0\ref\Sumador.dll
