@@ -1,0 +1,12 @@
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\bin\Debug\net6.0\Cotizador.deps.json
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\bin\Debug\net6.0\Cotizador.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\bin\Debug\net6.0\Cotizador.pdb
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\Cotizador.csproj.AssemblyReference.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\Cotizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\Cotizador.AssemblyInfoInputs.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\Cotizador.AssemblyInfo.cs
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\Cotizador.csproj.CoreCompileInputs.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\Cotizador.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\refint\Cotizador.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\Cotizador.pdb
+C:\Users\moran\Laboratorio_2\Ejercicios_4\Cotizador\Cotizador\obj\Debug\net6.0\ref\Cotizador.dll

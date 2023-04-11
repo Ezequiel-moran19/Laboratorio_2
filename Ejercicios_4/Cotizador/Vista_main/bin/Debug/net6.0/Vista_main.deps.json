@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vista_main/1.0.0": {
+        "dependencies": {
+          "Cotizador": "1.0.0"
+        },
+        "runtime": {
+          "Vista_main.dll": {}
+        }
+      },
+      "Cotizador/1.0.0": {
+        "runtime": {
+          "Cotizador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vista_main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cotizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
