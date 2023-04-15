@@ -1,0 +1,12 @@
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\bin\Debug\net6.0\Primavera-biblio.deps.json
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\bin\Debug\net6.0\Primavera-biblio.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\bin\Debug\net6.0\Primavera-biblio.pdb
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\Primavera-biblio.csproj.AssemblyReference.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\Primavera-biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\Primavera-biblio.AssemblyInfoInputs.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\Primavera-biblio.AssemblyInfo.cs
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\Primavera-biblio.csproj.CoreCompileInputs.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\Primavera-biblio.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\refint\Primavera-biblio.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\Primavera-biblio.pdb
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Primavera-biblio\Primavera-biblio\obj\Debug\net6.0\ref\Primavera-biblio.dll
