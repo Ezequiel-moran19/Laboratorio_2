@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invento argentino", "Invento argentino\Invento argentino.csproj", "{4EC3ADB9-5071-461C-91F4-793589B9CF72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{7E1DAB72-36CF-47CB-A134-7DA62FD5D5C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC3ADB9-5071-461C-91F4-793589B9CF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC3ADB9-5071-461C-91F4-793589B9CF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC3ADB9-5071-461C-91F4-793589B9CF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC3ADB9-5071-461C-91F4-793589B9CF72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1DAB72-36CF-47CB-A134-7DA62FD5D5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1DAB72-36CF-47CB-A134-7DA62FD5D5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1DAB72-36CF-47CB-A134-7DA62FD5D5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1DAB72-36CF-47CB-A134-7DA62FD5D5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C698A1-C3DE-4DAC-9546-2770139FB19E}
+	EndGlobalSection
+EndGlobal
