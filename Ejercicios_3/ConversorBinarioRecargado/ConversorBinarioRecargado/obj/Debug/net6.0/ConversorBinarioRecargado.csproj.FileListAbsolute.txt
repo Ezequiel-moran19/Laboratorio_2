@@ -1,0 +1,12 @@
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\bin\Debug\net6.0\ConversorBinarioRecargado.deps.json
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\bin\Debug\net6.0\ConversorBinarioRecargado.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\bin\Debug\net6.0\ConversorBinarioRecargado.pdb
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\ConversorBinarioRecargado.csproj.AssemblyReference.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\ConversorBinarioRecargado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\ConversorBinarioRecargado.AssemblyInfoInputs.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\ConversorBinarioRecargado.AssemblyInfo.cs
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\ConversorBinarioRecargado.csproj.CoreCompileInputs.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\ConversorBinarioRecargado.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\refint\ConversorBinarioRecargado.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\ConversorBinarioRecargado.pdb
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\ConversorBinarioRecargado\ConversorBinarioRecargado\obj\Debug\net6.0\ref\ConversorBinarioRecargado.dll

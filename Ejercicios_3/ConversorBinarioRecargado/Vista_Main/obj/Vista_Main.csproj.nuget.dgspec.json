@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\Vista_Main\\Vista_Main.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\ConversorBinarioRecargado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\ConversorBinarioRecargado.csproj",
+        "projectName": "ConversorBinarioRecargado",
+        "projectPath": "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\ConversorBinarioRecargado.csproj",
+        "packagesPath": "C:\\Users\\moran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\Vista_Main\\Vista_Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\Vista_Main\\Vista_Main.csproj",
+        "projectName": "Vista_Main",
+        "projectPath": "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\Vista_Main\\Vista_Main.csproj",
+        "packagesPath": "C:\\Users\\moran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\Vista_Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\ConversorBinarioRecargado.csproj": {
+                "projectPath": "C:\\Users\\moran\\Pre-cursada\\Ejercicios-clase-3\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\ConversorBinarioRecargado.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
