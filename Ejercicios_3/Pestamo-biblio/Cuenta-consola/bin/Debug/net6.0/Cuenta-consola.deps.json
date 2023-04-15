@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cuenta-consola/1.0.0": {
+        "dependencies": {
+          "Pestamo-biblio": "1.0.0"
+        },
+        "runtime": {
+          "Cuenta-consola.dll": {}
+        }
+      },
+      "Pestamo-biblio/1.0.0": {
+        "runtime": {
+          "Pestamo-biblio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cuenta-consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pestamo-biblio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

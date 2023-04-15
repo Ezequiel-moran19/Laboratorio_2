@@ -1,0 +1,12 @@
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\Pestamo-biblio.csproj.AssemblyReference.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\Pestamo-biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\Pestamo-biblio.AssemblyInfoInputs.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\Pestamo-biblio.AssemblyInfo.cs
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\Pestamo-biblio.csproj.CoreCompileInputs.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\bin\Debug\net6.0\Pestamo-biblio.deps.json
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\bin\Debug\net6.0\Pestamo-biblio.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\bin\Debug\net6.0\Pestamo-biblio.pdb
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\Pestamo-biblio.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\refint\Pestamo-biblio.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\Pestamo-biblio.pdb
+C:\Users\moran\Pre-cursada\Ejercicios-clase-3\Pestamo-biblio\Pestamo-biblio\obj\Debug\net6.0\ref\Pestamo-biblio.dll
