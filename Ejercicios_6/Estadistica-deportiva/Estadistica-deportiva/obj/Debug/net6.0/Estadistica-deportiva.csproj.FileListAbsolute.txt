@@ -1,0 +1,12 @@
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\Estadistica-deportiva.csproj.AssemblyReference.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\Estadistica-deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\Estadistica-deportiva.AssemblyInfoInputs.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\Estadistica-deportiva.AssemblyInfo.cs
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\Estadistica-deportiva.csproj.CoreCompileInputs.cache
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\bin\Debug\net6.0\Estadistica-deportiva.deps.json
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\bin\Debug\net6.0\Estadistica-deportiva.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\bin\Debug\net6.0\Estadistica-deportiva.pdb
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\Estadistica-deportiva.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\refint\Estadistica-deportiva.dll
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\Estadistica-deportiva.pdb
+C:\Users\moran\Pre-cursada\Ejercicios-clase-6\Estadistica-deportiva\Estadistica-deportiva\obj\Debug\net6.0\ref\Estadistica-deportiva.dll

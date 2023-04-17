@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estadistica-deportiva", "Estadistica-deportiva\Estadistica-deportiva.csproj", "{94964066-0313-4E23-8871-43427690DF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{009D8D77-42F1-422C-81B3-8560AB9CCD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94964066-0313-4E23-8871-43427690DF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94964066-0313-4E23-8871-43427690DF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94964066-0313-4E23-8871-43427690DF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94964066-0313-4E23-8871-43427690DF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009D8D77-42F1-422C-81B3-8560AB9CCD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009D8D77-42F1-422C-81B3-8560AB9CCD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009D8D77-42F1-422C-81B3-8560AB9CCD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009D8D77-42F1-422C-81B3-8560AB9CCD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {062AEBEA-BB13-4ED2-A1C3-412457E28D1A}
+	EndGlobalSection
+EndGlobal
