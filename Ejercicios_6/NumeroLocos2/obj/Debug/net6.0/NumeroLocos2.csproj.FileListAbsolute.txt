@@ -1,0 +1,15 @@
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\bin\Debug\net6.0\NumeroLocos2.exe
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\bin\Debug\net6.0\NumeroLocos2.deps.json
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\bin\Debug\net6.0\NumeroLocos2.runtimeconfig.json
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\bin\Debug\net6.0\NumeroLocos2.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\bin\Debug\net6.0\NumeroLocos2.pdb
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\NumeroLocos2.csproj.AssemblyReference.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\NumeroLocos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\NumeroLocos2.AssemblyInfoInputs.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\NumeroLocos2.AssemblyInfo.cs
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\NumeroLocos2.csproj.CoreCompileInputs.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\NumeroLocos2.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\refint\NumeroLocos2.dll
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\NumeroLocos2.pdb
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\NumeroLocos2.genruntimeconfig.cache
+C:\Users\moran\Laboratorio_2\Ejercicios_6\NumeroLocos2\obj\Debug\net6.0\ref\NumeroLocos2.dll
