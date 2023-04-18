@@ -52,7 +52,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(492, 237);
+            ClientSize = new Size(575, 237);
             Controls.Add(lblMensaje);
             Controls.Add(lblTitulo);
             Name = "Saludar";
